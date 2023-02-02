@@ -33,12 +33,12 @@ else:
 
 question = input("What the dog doing? ").lower()
 if True:
-    print("doing ur mom :)")
+    print("doing homework :)")
 #q5
 
 question1 = input("Why did SteveJobs died? ").lower()
-if question1 == "ligma":
-    print("lig ma balls")
+if question1 == "idk":
+    print("search for it.")
     score += 1
 else:
     print("You touch grass once in a while that's good.")
